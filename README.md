@@ -21,7 +21,7 @@ Example : https://scikit-learn.org/stable/auto_examples/classification/plot_clas
 
 # Classifier comparison
 
-(see. [Build_ML_intuition.ipynb above)](https://github.com/marekskk/ML-basics/blob/main/Build_ML_intuition.ipynb)
+See first part of: [Build_ML_intuition.ipynb above)](https://github.com/marekskk/ML-basics/blob/main/Build_ML_intuition.ipynb
 
 A comparison of a several classifiers in scikit-learn on synthetic datasets. The point of this example is to illustrate the nature of decision boundaries of different classifiers. This should be taken with a grain of salt, as the intuition conveyed by these examples does not necessarily carry over to real datasets.
 
